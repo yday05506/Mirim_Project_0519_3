@@ -17,11 +17,11 @@
         android:textColor="#ff0000"
         android:format="예약에 걸린 시간 : %s"/>
 
-    <Button
-        android:id="@+id/btn_start"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="예약 시작"/>
+<!--    <Button-->
+<!--        android:id="@+id/btn_start"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="예약 시작"/>-->
 
     <RadioGroup
         android:id="@+id/rg"
@@ -65,12 +65,12 @@
         android:gravity="bottom"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/btn_done"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginRight="15dp"
-            android:text="예약 완료"/>
+<!--        <Button-->
+<!--            android:id="@+id/btn_done"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginRight="15dp"-->
+<!--            android:text="예약 완료"/>-->
 
         <TextView
             android:id="@+id/text_result"
